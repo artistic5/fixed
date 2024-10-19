@@ -11,7 +11,7 @@ return [
 		/**
 		Race 2
 		*/
-		'favorites' => '(F) 2, 7, 10',
+		'favorites' => '(F) 2, 6, 7, 10',
 	],
 	'3' => [
 		/**
@@ -23,8 +23,8 @@ return [
 		/**
 		Race 4
 		*/
-		'favorites' => '(F) 1, 2, 3, 11',
-		'win/qin/qpl/trio($10 )' => '(Q) 1, 2, 3, 11',
+		'favorites' => '(F) 1, 2, 3, 11, 12',
+		'win/qin/qpl/trio($10 )' => '(Q) 1, 2, 3, 11, 12',
 	],
 	'5' => [
 		/**
