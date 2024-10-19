@@ -5,7 +5,8 @@ return [
 		/**
 		Race 1
 		*/
-		'favorites' => '(F) 3, 5',
+		'favorites' => '(F) 3, 5, 8',
+		'win/qin/qpl/trio($10 )' => '(Q) 3, 5, 8',
 	],
 	'2' => [
 		/**
