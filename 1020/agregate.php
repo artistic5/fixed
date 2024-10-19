@@ -68,10 +68,8 @@ return [
 		Race 10
 		*/
 		'favorites' => '(F) 8, 11',
-		'win(union 26)' => '2, 7, 8, 11',
+		'placesWP($30)' => '8',
 		'unions($10)' => '2, 7, 8, 11',
 		'experimental($10)' => '2, 7, 8, 11',
-		'place(wp 50)' => '8',
-		'placesWP($30)' => '8',
 	],
 ];
