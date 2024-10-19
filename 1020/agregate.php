@@ -11,29 +11,26 @@ return [
 		/**
 		Race 2
 		*/
-		'favorites' => '(F) 2, 7',
-		'win/qin/qpl/trio($10 )' => '(Q) 2, 7',
+		'favorites' => '(F) 2, 7, 10',
 	],
 	'3' => [
 		/**
 		Race 3
 		*/
-		'favorites' => '(F) 4, 5',
-		'win/qin/qpl/trio($10 )' => '(Q) 4, 5',
+		'favorites' => '(F) 2, 4, 5, 8',
 	],
 	'4' => [
 		/**
 		Race 4
 		*/
-		'favorites' => '(F) 2, 11',
-		'win/qin/qpl/trio($10 )' => '(Q) 2, 11',
+		'favorites' => '(F) 1, 2, 3, 11',
+		'win/qin/qpl/trio($10 )' => '(Q) 1, 2, 3, 11',
 	],
 	'5' => [
 		/**
 		Race 5
 		*/
-		'favorites' => '(F) 5, 6',
-		'win(union )' => '1, 4, 5, 6',
+		'favorites' => '(F) 5, 6, 8, 10',
 		'unions($10)' => '1, 4, 5, 6',
 		'experimental($10)' => '1, 4, 5, 6',
 	],
@@ -48,7 +45,7 @@ return [
 		/**
 		Race 7
 		*/
-		'favorites' => '(F) 2',
+		'favorites' => '(F) 2, 8',
 	],
 	'8' => [
 		/**
