@@ -67,9 +67,11 @@ return [
 		/**
 		Race 10
 		*/
-		'favorites' => '(F) 8, 11',
+		'favorites' => '(F) 1, 8, 11',
 		'placesWP($30)' => '8',
-		'unions($10)' => '2, 7, 8, 11',
-		'experimental($10)' => '2, 7, 8, 11',
+		'unions($10)' => '1, 2, 7, 8, 11',
+		'experimental($10)' => '1, 2, 7, 8, 11',
+		'win(union 48)' => '1, 7, 8, 11',
+		'win(union 50)' => '1, 2, 8, 11',
 	],
 ];
